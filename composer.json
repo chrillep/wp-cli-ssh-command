@@ -13,5 +13,5 @@
   ],
   "autoload": {
     "files": ["ssh-command.php"]
-  },
+  }
 }

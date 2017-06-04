@@ -10,8 +10,8 @@ Configure your SSH aliases in `wp-cli.yml`:
       ssh: user@myserver.de
       path: www
 
-    @alias2
-    ...
+    @alias2:
+      ...
 
 Connect to the server via the SSH command:
 

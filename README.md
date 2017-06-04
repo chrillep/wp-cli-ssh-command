@@ -19,7 +19,7 @@ Connect to the server via the SSH command:
 
 ## Installation
 
-Since the package index of WP-CLI is currently [https://github.com/wp-cli/wp-cli/issues/3977](on hold), the package has to be installed by hand:
+Since the package index of WP-CLI is currently [on hold](https://github.com/wp-cli/wp-cli/issues/3977), the package has to be installed by hand:
 
     $ cd ~/.wp-cli/packages/
     $ composer require dword-design/wp-cli-ssh-command

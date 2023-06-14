@@ -1,17 +1,24 @@
 {
-  "name": "dword-design/wp-cli-ssh-command",
+  "name": "chrillep/wp-cli-ssh-command",
   "description": "WP-CLI command to create a persistent SSH connection to a site alias.",
   "type": "wp-cli-package",
-  "homepage": "https://github.com/dword-design/wp-cli-ssh-command",
+  "homepage": "https://github.com/chrillep/wp-cli-ssh-command",
   "license": "MIT",
   "authors": [
     {
       "name": "Sebastian Landwehr",
       "email": "info@dword-design.de",
       "homepage": "http://www.dword-design.de"
+    },
+    {
+      "name": "Christian Widlund",
+      "email": "christian.widlund@gmail.com",
+      "homepage": "https://chrillep.s"
     }
   ],
   "autoload": {
-    "files": ["ssh-command.php"]
+    "files": [
+      "ssh-command.php"
+    ]
   }
 }
